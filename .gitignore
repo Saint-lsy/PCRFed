@@ -1,0 +1,7 @@
+# scripts/
+logs/
+.vscode/
+*.pyc
+papers/
+experiments/
+visualization/
